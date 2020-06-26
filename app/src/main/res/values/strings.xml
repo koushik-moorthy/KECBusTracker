@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KEC Bus Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_retrieve_map">Map</string>
+    <string name="nameerror">Please Enter a Valid Email ID</string>
+    <string-array name="stops">
+        <item>KPM</item>
+        <item>Chithode</item>
+        <item>Erode</item>
+        <item>Mysore</item>
+        <item>Kerala</item>
+        <item>Karnataka</item>
+        <item>Andhra</item>
+        <item>Guntoor</item>
+    </string-array>
+
+
+</resources>
